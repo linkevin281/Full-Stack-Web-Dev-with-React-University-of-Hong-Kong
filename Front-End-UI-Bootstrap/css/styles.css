@@ -11,7 +11,8 @@
 }
 
 .footer {
-    background-color: rgba(170, 62, 62, 0.616);
+    background-color: #576CA8;
+    color: white;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -19,12 +20,32 @@
 .jumbotron {
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background: rgb(196, 115, 196);
+    background: #274690;
     color: white;
 }
 
 .address {
     font-size: 80%;
     margin: 0px;
-    color: black;
+    color: black; 
 }
+
+.body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+
+.navbar-dark {
+    background-color: #1B264F;
+}
+
+.breadcrumb {
+    border-radius: 30px 30px 30px 30px;
+}
+/*
+1B264F
+274690
+576CA8
+302B27
+F5F3F5
+ */
