@@ -1,0 +1,31 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "This is a test directory",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linkevin281/NodeJSPractice.git"
+  },
+  "author": "Kevin Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linkevin281/NodeJSPractice/issues"
+  },
+  "homepage": "https://github.com/linkevin281/NodeJSPractice#readme",
+  "keywords": [
+    "Test",
+    "directory",
+    "to",
+    "learn",
+    "node"
+  ],
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
